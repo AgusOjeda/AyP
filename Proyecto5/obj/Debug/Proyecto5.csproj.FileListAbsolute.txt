@@ -1,0 +1,12 @@
+C:\Programacion\Proyecto5\obj\Debug\Proyecto5.csprojResolveAssemblyReference.cache
+C:\Programacion\Proyecto5\bin\Debug\Proyecto5.exe.config
+C:\Programacion\Proyecto5\bin\Debug\Proyecto5.exe
+C:\Programacion\Proyecto5\bin\Debug\Proyecto5.pdb
+C:\Programacion\Proyecto5\obj\Debug\Proyecto5.exe
+C:\Programacion\Proyecto5\obj\Debug\Proyecto5.pdb
+C:\Users\agust\OneDrive\Escritorio\Proyecto5\bin\Debug\Proyecto5.exe.config
+C:\Users\agust\OneDrive\Escritorio\Proyecto5\bin\Debug\Proyecto5.exe
+C:\Users\agust\OneDrive\Escritorio\Proyecto5\bin\Debug\Proyecto5.pdb
+C:\Users\agust\OneDrive\Escritorio\Proyecto5\obj\Debug\Proyecto5.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\Proyecto5\obj\Debug\Proyecto5.exe
+C:\Users\agust\OneDrive\Escritorio\Proyecto5\obj\Debug\Proyecto5.pdb

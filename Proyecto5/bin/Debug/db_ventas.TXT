@@ -1,0 +1,13 @@
+
+1;Bayaspirina +;Acido;IOMA;1 Pago;150;3/7/2020 17:50:09;1
+
+1;Bayaspirina +;Acido;IOMA;1 Pago;150;3/7/2020 17:56:09;2
+
+2;Bayaspirina ++;Acetilsalicílico Ácido;IOMA;1 Pago;150;3/7/2020 17:59:22;3
+
+3;Buscapina;Paracetamol;particular;1 Pago;88,75;3/7/2020 18:02:40;4
+
+3;Tafirol;Parecetamol;particular;1 Pago;213,75;3/7/2020 18:06:35;5
+
+1;Ibupirac Plus;ibuprofeno+cafeina;IOMA;1 Pago;88,75;3/7/2020 18:12:55;6
+

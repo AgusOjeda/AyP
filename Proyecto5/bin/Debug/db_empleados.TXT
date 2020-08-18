@@ -1,0 +1,7 @@
+
+1;Agustin;Ojeda;42222222;238,75
+
+2;Luis;Dominguez;22333444;150
+
+3;Facundo;Ojeda;423334755;302,5
+
